@@ -6,7 +6,6 @@ export const DesktopHeader = styled.div`
   justify-content: space-between;
   height: 85px;
   padding: 0 2.5rem 0 0;
-  width: 100%;
   margin: 0;
   background: #182331;
 `;
